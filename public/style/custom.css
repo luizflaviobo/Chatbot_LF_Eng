@@ -9,7 +9,7 @@ body {
 }
 
 body {
-    background-image: url(http://gts-lk-bot.mybluemix.net/style/IBM_Watson.jpg);
+    background-image: url(/style/IBM_Watson.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
