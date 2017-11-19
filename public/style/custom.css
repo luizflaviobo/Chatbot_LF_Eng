@@ -9,7 +9,7 @@ body {
 }
 
 body {
-    background-image: url(../style/Chatbot_LF/public/images/IBM_Watson.jpg);
+    background-image: url(../images/"IBM_Watson.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
