@@ -169,7 +169,7 @@ body {
 }
 
 .chat-popup .chat-body .bubble.watson {
-    color: #fff;
+    color: #111111;
     background-color: #00b0ff;
     align-self: flex-start;
     margin-left: 20px;
