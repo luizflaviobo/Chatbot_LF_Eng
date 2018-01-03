@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: GTS-LK-BOT
-  host: GTS-LK-BOT
+  name: GTS-LK-BOT-Eng
+  host: GTS-LK-BOT-Eng
   disk_quota: 1024M
